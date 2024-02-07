@@ -14,8 +14,8 @@
                     @endforeach
                 </ul>
             </div>
-            <a class="ml-7" href="#">Discord</a>
-            <a class="ml-7" href="https://store.rustyrohdes.com">OnlineStore / VIP Packages</a>
+            <a class="ml-7" href="https://discord.gg/eD8U7Xkaaz" target="_blank" rel="nofollow">Discord</a>
+            <a class="ml-7" href="https://rustyrohdes.tip4serv.com" target="_blank" rel="nofollow">OnlineStore / VIP Packages</a>
         </ul>
 
         <div class="720px:block hidden relative" x-data="{ active: false }">
@@ -35,8 +35,8 @@
                             @endforeach
                         </ul>
                     </div>
-                    <a class="py-1 mb-2" href="#">Discord</a>
-                    <a class="py-1" href="https://store.rustyrohdes.com">OnlineStore / VIP Packages</a>
+                    <a class="py-1 mb-2" href="https://discord.gg/eD8U7Xkaaz" target="_blank" rel="nofollow">Discord</a>
+                    <a class="py-1" href="https://rustyrohdes.tip4serv.com" target="_blank" rel="nofollow">OnlineStore / VIP Packages</a>
                 </ul>
             </div>
         </div>
